@@ -7,4 +7,4 @@ Final Project for CS50P course
 = implement test functions\
 = write README\
 = shoot and upload a video\
-= submit the form\
+= submit the form
