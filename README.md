@@ -1,13 +1,13 @@
 # CS50-Project
 Final Project for CS50P course
 
-#To do:\
+<!--#To do:\
 = decide the function of the project -- done!\
 = code it\
 = implement test functions\
 = write README\
 = shoot and upload a video\
-= submit the form
+= submit the form-->
 
 Project idea:\
 A python program that would go beyond a basic "split the bill equally" calculator by:
