@@ -33,12 +33,13 @@ Algorithms:
 - Apply proportional GST
 - Apply proportional service charge
 - Apply proportional discount
+- Coupons
 - Handle rounding so the final totals exactly equal the original bill
 - Testing
 
 Tests:
 - Shared item splitting
 - GST calculation
-- Discounts
+- Discounts and schemes
 - Invalid input
 - Rounding edge cases
